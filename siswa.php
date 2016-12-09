@@ -1,6 +1,7 @@
 <?php
 // Update dari git hub
 // by_sarjah
+// commit
 require_once('lib/DBClass.php');
 require_once('lib/siswa.class.php');
 require_once('lib/age.php');
